@@ -1,0 +1,13 @@
+2024-11-15 13:21:36,377 - INFO - Request to http://127.0.0.1:8000/users?username=xghjkj&password=jfhui&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=123cm took 0.00752 seconds
+2024-11-15 13:21:37,288 - INFO - Request to http://127.0.0.1:8000/users?username=xghjkj&password=jfhui&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=123cm took 0.00111 seconds
+2024-11-15 13:31:33,381 - INFO - Request to http://127.0.0.1:8000/users?username=ffbb&password=cmjij&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=123cm took 0.01731 seconds
+2024-11-15 13:31:34,141 - INFO - Request to http://127.0.0.1:8000/users?username=ffbb&password=cmjij&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=123cm took 0.00106 seconds
+2024-11-15 13:31:35,339 - INFO - Request to http://127.0.0.1:8000/users?username=ffbb&password=cmjij&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=123cm took 0.00092 seconds
+2024-11-15 13:31:45,680 - INFO - Request to http://127.0.0.1:8000/docs took 0.00488 seconds
+2024-11-15 13:31:47,016 - INFO - Request to http://127.0.0.1:8000/openapi.json took 0.05876 seconds
+2024-11-15 13:32:16,377 - INFO - Request to http://127.0.0.1:8000/users?username=rsdgj&password=vhjkkpl&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=123cm took 0.00336 seconds
+2024-11-15 14:08:45,356 - INFO - Request to http://127.0.0.1:8000/ took 0.00191 seconds
+2024-11-15 14:08:50,529 - INFO - Request to http://127.0.0.1:8000/favicon.ico took 0.00732 seconds
+2024-11-15 14:09:31,783 - INFO - Request to http://127.0.0.1:8000/docs took 0.01346 seconds
+2024-11-15 14:09:33,617 - INFO - Request to http://127.0.0.1:8000/openapi.json took 0.07870 seconds
+2024-11-15 14:10:10,050 - INFO - Request to http://127.0.0.1:8000/users?username=kmsnsm&password=msnsm&firstname=Oluwakemi&lastname=Ogundaisi&age=22&email=juliefestos%40gmail.com&height=122cm took 0.02895 seconds
